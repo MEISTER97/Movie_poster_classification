@@ -6,16 +6,9 @@ This project classifies movie posters into multiple genres using deep learning. 
 
 ## 📁 Dataset
 
-The dataset contains movie posters along with their corresponding genres. Each poster may belong to multiple genres (e.g., Action, Drama, Comedy).
+The dataset used is from [Kaggle: Movie Genre Classifier Dataset](https://www.kaggle.com/datasets/raman77768/movie-classifier), which contains movie posters and their associated genres.
 
-**Structure:**
-dataset/
-├── train/
-├── val/
-├── tests/
-└── labels.csv
-
-
+Each poster may belong to multiple genres (e.g., Action, Drama, Comedy).
 ---
 
 ## 🧠 Model
@@ -45,4 +38,5 @@ dataset/
 -  Confusion matrix and performance plots
 
 ---
+
 
